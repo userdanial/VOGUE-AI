@@ -5,3 +5,4 @@ Pillow
 supabase
 urllib3
 backoff
+huggingface-hub
